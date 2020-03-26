@@ -1,0 +1,20 @@
+{
+  "name": "cucumbertask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "priyanka",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "chromedriver": "^80.0.1",
+    "cucumber": "^6.0.5"
+  },
+  "dependencies": {
+    "cucumber-assert": "^2.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
